@@ -120,3 +120,36 @@ Peizhe Xia, Long Peng , **Xin Di**, Renjing Pei, Yang Wang, Yang Cao, Zheng-Jun 
 
 💻Competitions
 ======
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW2024</div><img src='images/ESR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[New Trends in Image Restoration and Enhancement CVPR Workshop 2024]
+
+Organized by CVPR2024.
+
+NTIRE 2024 Efficient Image Super-Resolution Challenge.
+
+Runner-up Winner
+
+**Keywords**
+- Low-Level Vision
+- Super-Resolution
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW2024</div><img src='images/ESR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AIS CVPR Workshop 2024]
+
+Organized by CVPR2024.
+
+Real-Time 4K Super-Resolution of Compressed AVIF Images.
+
+Runner-up Winner
+
+**Keywords**
+- Low-Level Vision
+- Super-Resolution
