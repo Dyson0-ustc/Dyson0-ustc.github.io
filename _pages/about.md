@@ -18,36 +18,29 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I received a B.S. degree in Computer Science and Technology from [Ocean University of China](https://www.ouc.edu.cn/), Qingdao, China, in 2022. I am currently working toward an M.S. degree in Information and Telecommunication Engineering at the School of Electronics and Information, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China.
+Hi, I am Xin Di (狄昕), a graduate student at the University of Science and Technology of China (USTC), working under the supervision of Prof. Zheng-Jun Zha, Associate Prof. Yang Cao, and Associate Prof. Yang Wang.
 
-I was the recipient of the National Scholarship for Postgraduate at Northwestern Polytechnical University in 2024 and hold 5 Chinese invention patents.
+My research interests: include but are not limited to Burst Super-Resolution [BurstSR], Low-Level Vision, and Space-time Video Super-resolution [STVSR].
 
-My research interests include 
-- **[Physics-Informed Machine Learning](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:physics_informed_ml)**
-- **[Reliability Engineering](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:reliability_engineering)**
-- **[Condition Monitoring](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:condition_monitoring)**
-
+If you are interested in my research or have any questions, suggestions, or collaboration ideas, please feel free to contact me at Email: dx9826@mail.ustc.edu.cn.
 
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Received the National Scholarship for Postgraduate.
-- *2024.01*: &nbsp;🎉🎉 Received the Student Travel Grant from the [PCIM Europe](https://pcim.mesago.com/nuernberg/en/conference.html) 2024 Conference.
-- *2023.12*: &nbsp;🎉🎉 A paper is accepted by the PCIM Europe 2024 Conference. _(EI, Oral)_
-- *2023.09*: &nbsp;🎉🎉 A paper is accepted by the Advanced Engineering Informatics. _(SCI, Q1, IF=8.8)_
+- *2025.02*: One paper is accepted by CVPR 2025.
+- *2024.12*: One paper is accepted by AAAI 2025.
+- *2024.3*: Win the 2nd Place of Real Time Super-Resolution Challenge (CVPR2024W).
+- *2024.3*: Wins the 2nd Place of Efficient Super-Resolution Challenge (CVPR2024W).
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCIM Europe 2024</div><img src='images/frame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gated recurrent units-assisted state-space modeling for electric vehicle temperature prediction](https://ieeexplore.ieee.org/document/10653772)
+[QMambaBSR: Burst Image Super-Resolution with Query State Space Model](https://arxiv.org/pdf/2408.08665)
 
-**Xinyuan Liao**, Shaowei Chen, and Shuai Zhao*
+**Di Xin**, Long Peng, Peizhe Xia, Wenbo Li, Renjing Pei, Yang Cao, Yang Wang, Zheng-Jun Zha. **First Author**.
 
-**Keywords**
-- Recurrent Neural Networks
-- Physics-Informed Machine Learning
-- EVs' Electrical System 
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025**
 
 </div>
 </div>
@@ -104,21 +97,5 @@ Fanfan Lin, Junhua Liu, Xinze Li, Shuai Zhao, et al., **Xinyuan Liao**
 </div>
 
 
-# 🎖 Honors and Awards
-- *2024.10*  The National Scholarship for Postgraduate.
-- *2024.10*  Northwestern Polytechnical University, First Prize Scholarship.
-- *2024.08*  IELTS 6.5 (6.0)
-- *2024.07*  The 19th Graduate Electronic Design Competition, Provincial Second Prize.
-- *2024.01*  PCIM Europe 2024 Conference, Student Travel Grant.
-- *2023.10*  Northwestern Polytechnical University, Second Prize Scholarship.
-- *2023.09*  The 14th Challenge Cup (Growth Challenge), Provincial First Prize.
-- *2022.10*  Northwestern Polytechnical University, First Prize Scholarship.
-- *2021.10*  Ocean University of China, First Prize Scholarship.
-- *2021.10*  Ocean University of China, Model Student of Academic Records.
-
-# 📖 Educations
-- *2022.06 - 2025.04*, M.S. Northwestern Polytechnical University, Information and Telecommunication Engineering. 
-- *2018.09 - 2022.06*, B.S. Ocean University of China, Computer Science and Technology.
-
-# 🗺️ Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+💻Competitions
+======
