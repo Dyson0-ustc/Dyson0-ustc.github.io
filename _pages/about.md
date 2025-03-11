@@ -50,51 +50,68 @@ If you are interested in my research or have any questions, suggestions, or coll
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ECCE 2024</div><img src='images/PE-GPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VarMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PE-GPT: A Physics-Informed Interactive Large Language Model for Power Converter Modulation Design](https://arxiv.org/ftp/arxiv/papers/2403/2403.14059.pdf)
+[Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration](https://arxiv.org/pdf/2501.16583)
 
-Fanfan Lin, Junhua Liu, Xinze Li, Shuai Zhao, et al., **Xinyuan Liao**
+Long Peng, **Xin Di**, Zhanfeng Feng, Wenbo Li, Renjing Pei, Yang Wang, Xueyang Fu, Yang Cao, Zheng-Jun Zha. **Co-first Author**.
+
+**Under Review**
 
 **Keywords**
-- Power Converters
-- Large Language Model
-- Physics-Informed Neural Networks
-- Modulation Strategy 
+- Low-Level Vision
+- Image Restoration
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2023</div><img src='images/roadmap.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/gauss.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Explainable Neural Dynamics Models for Electric Motor Temperature Estimation](https://doi.org/10.36227/techrxiv.24555889)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ms140429/Explainable-Neural-Dynamics-Model)
+[PixeltoGaussian: Ultra-FastContinuous Super-Resolution with 2DGaussian Modeling]
 
-**Xinyuan Liao**, Shaowei Chen, Yunxiang Long, Shuai Zhao*
+Long Peng, Anran Wu, Wenbo Li, Peizhe Xia, Xueyuan Dai, Xinjie Zhang, **Xin Di**, Haoze Sun, Renjing Pei, Yang Wang, Yang Cao, Zheng-Jun Zha.
+
+**Under Review**
 
 **Keywords**
-- System Thermal Dynamics
-- Control-Oriented Modeling
-- Stability Constraints
-- State-Space Models
+- Low-Level Vision
+- Image Super-resolution
+
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics 2023</div><img src='images/aei.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/derain_pl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Remaining useful life with self-attention assisted physics-informed neural network](https://doi.org/10.1016/j.aei.2023.102195)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/XinyuanLiao/AttnPINN-for-RUL-Estimation)
+[Boosting Image De-raining Via Central-Surrounding Synergistic Convolution]
 
-**Xinyuan Liao**, Shaowei Chen, Pengfei Wen, Shuai Zhao*
+Long Peng, Yang Wang, **Xin Di**, Peizhe Xia, Xueyang Fu, Yang Cao, Zheng-Jun Zha.
+
+**AAAI Conference on Artificial Intelligence, 2025.**
 
 **Keywords**
-- Physics-Informed Neural Networks
-- Attention Mechanism
-- Remaining Useful Life
+- Low-Level Vision
+- Derain
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/absr_xpz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[S3Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model]
+
+Peizhe Xia, Long Peng , **Xin Di**, Renjing Pei, Yang Wang, Yang Cao, Zheng-Jun Zha. 
+
+**Under Review**
+
+**Keywords**
+- Low-Level Vision
+- Arbitrary-Scale Super-Resolution
 
 
 </div>
