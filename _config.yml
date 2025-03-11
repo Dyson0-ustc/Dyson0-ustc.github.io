@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinyuan Liao"
-description              : "Master Candidate & IEEE Student Member"
-repository               : "XinyuanLiao/xinyuanliao.github.io"
+title                    : "Xin Di"
+description              : "University of Science and Technology of China"
+repository               : ""
 google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+#google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+#bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+#baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Xinyuan Liao"
-  avatar           : "images/xinyuanliao.jpg"
-  bio              : "Northwestern Polytechnical University (NWPU)"
-  location         : "Xi'an, Shaanxi, China"
+  name             : "Xin Di"
+  avatar           : "images/Dyson.jpg"
+  bio              : "University of Science and Technology of China (USTC)"
+  location         : "Hefei, Anhui, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=IdfPU1UAAAAJ"
-  email            : "xnyuanliao@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Xinyuan-Liao-4"
+  #googlescholar    : "https://scholar.google.com/citations?user=IdfPU1UAAAAJ"
+  email            : "dx9826@mail.ustc.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Di_Xin7"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XinyuanLiao"
+  #github           : "XinyuanLiao"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,10 +45,10 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0001-2431-3082"
+  #orcid            : "https://orcid.org/0009-0001-2431-3082"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
