@@ -38,7 +38,7 @@ If you are interested in my research or have any questions, suggestions, or coll
 
 [QMambaBSR: Burst Image Super-Resolution with Query State Space Model](https://arxiv.org/pdf/2408.08665)
 
-**Di Xin**, Long Peng, Peizhe Xia, Wenbo Li, Renjing Pei, Yang Cao, Yang Wang, Zheng-Jun Zha. **First Author**.
+**Xin Di**, Long Peng, Peizhe Xia, Wenbo Li, Renjing Pei, Yang Cao, Yang Wang, Zheng-Jun Zha. **First Author**.
 
 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025**
 
