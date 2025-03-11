@@ -22,7 +22,7 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 # Site Author
 author:
   name             : "Xin Di"
-  avatar           : "images/Dyson.png"
+  avatar           : "images/dyson.png"
   bio              : "University of Science and Technology of China (USTC)"
   location         : "Hefei, Anhui, China"
   employer         :
