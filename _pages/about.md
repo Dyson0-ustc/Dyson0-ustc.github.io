@@ -33,7 +33,7 @@ If you are interested in my research or have any questions, suggestions, or coll
 - *2024.3*: Wins the 2nd Place of Efficient Super-Resolution Challenge (CVPR2024W).
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/QMBSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/querymamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [QMambaBSR: Burst Image Super-Resolution with Query State Space Model](https://arxiv.org/pdf/2408.08665)
