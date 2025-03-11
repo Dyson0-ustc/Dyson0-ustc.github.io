@@ -42,6 +42,10 @@ If you are interested in my research or have any questions, suggestions, or coll
 
 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025**
 
+**Keywords**
+- Low-Level Vision
+- Burst Super-resolution
+
 </div>
 </div>
 
