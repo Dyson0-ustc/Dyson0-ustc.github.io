@@ -70,7 +70,7 @@ Long Peng, **Xin Di**, Zhanfeng Feng, Wenbo Li, Renjing Pei, Yang Wang, Xueyang 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/gauss.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PixeltoGaussian: Ultra-FastContinuous Super-Resolution with 2DGaussian Modeling]
+[PixeltoGaussian: Ultra-FastContinuous Super-Resolution with 2DGaussian Modeling](https://arxiv.org/pdf/2503.06617)
 
 Long Peng, Anran Wu, Wenbo Li, Peizhe Xia, Xueyuan Dai, Xinjie Zhang, **Xin Di**, Haoze Sun, Renjing Pei, Yang Wang, Yang Cao, Zheng-Jun Zha.
 
@@ -87,7 +87,7 @@ Long Peng, Anran Wu, Wenbo Li, Peizhe Xia, Xueyuan Dai, Xinjie Zhang, **Xin Di**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/derain_pl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Boosting Image De-raining Via Central-Surrounding Synergistic Convolution]
+[Boosting Image De-raining Via Central-Surrounding Synergistic Convolution](https://ojs.aaai.org/index.php/AAAI/article/view/32693)
 
 Long Peng, Yang Wang, **Xin Di**, Peizhe Xia, Xueyang Fu, Yang Cao, Zheng-Jun Zha.
 
@@ -104,7 +104,7 @@ Long Peng, Yang Wang, **Xin Di**, Peizhe Xia, Xueyang Fu, Yang Cao, Zheng-Jun Zh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/absr_xpz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[S3Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model]
+[S3Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model](https://arxiv.org/pdf/2411.11906)
 
 Peizhe Xia, Long Peng , **Xin Di**, Renjing Pei, Yang Wang, Yang Cao, Zheng-Jun Zha. 
 
