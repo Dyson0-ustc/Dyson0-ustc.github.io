@@ -27,6 +27,7 @@ If you are interested in my research or have any questions, suggestions, or coll
 
 
 # 🔥 News
+- *2025.05*: One paper is accepted by IJCAI 2025.
 - *2025.02*: One paper is accepted by CVPR 2025.
 - *2024.12*: One paper is accepted by AAAI 2025.
 - *2024.3*: Win the 2nd Place of Real Time Super-Resolution Challenge (CVPR2024W).
@@ -50,14 +51,14 @@ If you are interested in my research or have any questions, suggestions, or coll
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VarMamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/VarMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration](https://arxiv.org/pdf/2501.16583)
 
 Long Peng, **Xin Di**, Zhanfeng Feng, Wenbo Li, Renjing Pei, Yang Wang, Xueyang Fu, Yang Cao, Zheng-Jun Zha. **Co-first Author**.
 
-**Under Review**
+**International Joint Conference on Artificial Intelligence (IJCAI) 2025**
 
 **Keywords**
 - Low-Level Vision
