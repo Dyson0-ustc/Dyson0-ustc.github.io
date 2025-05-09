@@ -101,7 +101,7 @@ Long Peng, Yang Wang, **Xin Di**, Peizhe Xia, Xueyang Fu, Yang Cao, Zheng-Jun Zh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/absr_xpz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/absr_xpz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [S3Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model](https://arxiv.org/pdf/2411.11906)
