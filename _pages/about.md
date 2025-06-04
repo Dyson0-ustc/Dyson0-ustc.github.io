@@ -67,18 +67,34 @@ Long Peng, **Xin Di**, Zhanfeng Feng, Wenbo Li, Renjing Pei, Yang Wang, Xueyang 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/gauss.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/VarMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PixeltoGaussian: Ultra-FastContinuous Super-Resolution with 2DGaussian Modeling](https://arxiv.org/pdf/2503.06617)
+[Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration](https://arxiv.org/pdf/2501.16583)
 
-Long Peng, Anran Wu, Wenbo Li, Peizhe Xia, Xueyuan Dai, Xinjie Zhang, **Xin Di**, Haoze Sun, Renjing Pei, Yang Wang, Yang Cao, Zheng-Jun Zha.
+Long Peng, **Xin Di**, Zhanfeng Feng, Wenbo Li, Renjing Pei, Yang Wang, Xueyang Fu, Yang Cao, Zheng-Jun Zha. **Co-first Author**.
+
+**International Joint Conference on Artificial Intelligence (IJCAI) 2025**
+
+**Keywords**
+- Low-Level Vision
+- Image Restoration
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pmqve.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PMQ-VE: Progressive Multi-Frame Quantization for Video Enhancement](https://arxiv.org/pdf/2505.12266)
+
+ZhanFeng Feng, Long Peng, **Xin Di**, Yong Guo, Wenbo Li, Yulun Zhang, Renjing Pei, Yang Wang, Yang Cao, Zheng-Jun Zha.**Co-first Author**.
 
 **Under Review**
 
 **Keywords**
 - Low-Level Vision
-- Image Super-resolution
+- Video Enhancement
 
 
 </div>
