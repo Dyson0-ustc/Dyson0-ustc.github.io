@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Hi, I am Xin Di (狄昕), a graduate student at the University of Science and Technology of China (USTC), working under the supervision of Prof. Zheng-Jun Zha, Associate Prof. Yang Cao, and Associate Prof. Yang Wang.
+Hi, I am Xin Di (狄昕), a Phd student at the University of Science and Technology of China (USTC), working under the supervision of Prof. Zheng-Jun Zha, Associate Prof. Yang Cao, and Associate Prof. Yang Wang.
 
 My research interests: include but are not limited to Burst Super-Resolution [BurstSR], Low-Level Vision, and Space-time Video Super-resolution [STVSR].
 
@@ -79,6 +79,24 @@ ZhanFeng Feng, Long Peng, **Xin Di**, Yong Guo, Wenbo Li, Yulun Zhang, Renjing P
 **Keywords**
 - Low-Level Vision
 - Video Enhancement
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/robustGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RobustGS: Unified Boosting of Feedforward 3D Gaussian Splatting under Low-Quality Conditions](https://arxiv.org/abs/2508.03077)
+
+Anran Wu, Long Peng, **Xin Di**, Xueyuan Dai, Chen Wu, Yang Wang, Xueyang Fu, Yang Cao, Zheng-Jun Zha.**Co-first Author**.
+
+**Under Review**
+
+**Keywords**
+- Low-Level Vision
+- Image Restoration
+- Gauss Splatting
 
 
 </div>
