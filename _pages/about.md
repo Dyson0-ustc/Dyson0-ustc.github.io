@@ -67,14 +67,14 @@ Long Peng, **Xin Di**, Zhanfeng Feng, Wenbo Li, Renjing Pei, Yang Wang, Xueyang 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pmqve.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/pmqve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PMQ-VE: Progressive Multi-Frame Quantization for Video Enhancement](https://arxiv.org/pdf/2505.12266)
 
 ZhanFeng Feng, Long Peng, **Xin Di**, Yong Guo, Wenbo Li, Yulun Zhang, Renjing Pei, Yang Wang, Yang Cao, Zheng-Jun Zha.**Co-first Author**.
 
-**Under Review**
+**Conference and Workshop on Neural Information Processing Systems (NeurIPS) 2025**
 
 **Keywords**
 - Low-Level Vision
